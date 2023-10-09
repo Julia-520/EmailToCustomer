@@ -44,4 +44,4 @@
 ![Screenshot 2023-10-02 132712](https://github.com/Julia-520/EmailToCustomer/blob/master/images/NonToNon.jpg)
 
 
->>>>>>> 25ed651 (Initial commit)
+
