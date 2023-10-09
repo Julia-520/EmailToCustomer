@@ -2,7 +2,7 @@
 # AnEmailToCustomer
 =======
 # Customer Support System: An email to the customer
-[Google Slides](https://docs.google.com/presentation/d/1aqFh4tzRhZ6w0nnEgkv_dZDaY8N0wDEi5jTru9reDCQ/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/12JcAzP5I7J3DhQNUeFTiKcZWLB2oFJrI/edit#slide=id.p1)
 
 ## Project Settings
 1. You're a customer service assistant for a large electronics store
